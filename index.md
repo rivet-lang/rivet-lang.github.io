@@ -1,1 +1,3 @@
-# The Index post
+# Home
+
+[Documentation](https://rivet-lang.gitbook.io/documentation/)
