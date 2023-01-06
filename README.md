@@ -1,2 +1,1 @@
-# website
-The Rive programming language website
+# The Rivet programming language website
