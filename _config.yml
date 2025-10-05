@@ -1,5 +1,6 @@
 title: The Rivet programming language
 description: The official website
 remote_theme: pages-themes/slate@v0.2.0
+markdown: GFM
 plugins:
 - jekyll-remote-theme
